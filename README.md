@@ -35,4 +35,6 @@ The two independent readings used the same fixed source images. Claude produced 
 
 歷史原文、館藏影像、新增說明與資料編排依各自的權利條件處理。書影請由京都大學來源連結取用。 [權利說明](LICENSE.md)
 
-曲宸宇（Chu, Chen-Yu）。2026。醫方內外集（RB00001162） / Ihō naigaishū: Transcription Dataset。v0.1.0。資料集。 [固定發行](https://github.com/poplolioi11/iho-naigai-shu/releases/tag/v0.1.0) · [ORCID](https://orcid.org/0009-0003-9738-6914)
+曲宸宇（Chu, Chen-Yu）。2026。醫方內外集（RB00001162） / Ihō naigaishū: Transcription Dataset。v0.1.0。資料集。 [固定發行](https://github.com/poplolioi11/iho-naigai-shu/releases/tag/v0.1.0) · [ORCID](https://orcid.org/0009-0003-9738-6914) · [版本 DOI](https://doi.org/10.5281/zenodo.24531869) · [系列 DOI](https://doi.org/10.5281/zenodo.24531868)
+
+`PACKAGE-SHA256SUMS.txt` 對應固定 v0.1.0 發行包。此頁與引用檔在 GitHub `main` 補列經公開讀回核對的 Zenodo DOI。

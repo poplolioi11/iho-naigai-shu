@@ -31,5 +31,13 @@
     "Japanese katakana",
     "manuscript transcription",
     "TEI"
+  ],
+  "doi": "10.5281/zenodo.24531869",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24531868",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
